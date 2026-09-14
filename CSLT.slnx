@@ -1,4 +1,20 @@
 <Solution>
+  <Folder Name="/Session4/">
+    <Project Path="Session4/Bai1/Bai1.csproj" />
+    <Project Path="Session4/Bai2/Bai2.csproj" />
+    <Project Path="Session4/Bai3/Bai3.csproj" />
+    <Project Path="Session4/Bai4/Bai4.csproj" />
+    <Project Path="Session4/Bai5/Bai5.csproj" />
+  </Folder>
+  <Folder Name="/Session5/">
+    <Project Path="Bai2/Bai2.csproj" Id="41dbf19a-61f2-4e45-8fb0-eb5dc9389a4f" />
+    <Project Path="Bai3/Bai3.csproj" Id="01d15a2c-31fc-4499-a6fe-c5dfb7301f5f" />
+    <Project Path="Bai4/Bai4.csproj" Id="422163e8-5461-4b11-a807-fb140e62faa7" />
+    <Project Path="Bai5/Bai6.csproj" Id="987860fd-58c7-42d7-b72a-29fa1f8934fd" />
+    <Project Path="Bai7/Bai7.csproj" Id="26360239-83a8-466f-a38d-bd07cc594a93" />
+    <Project Path="Bai8/Bai8.csproj" Id="e8c7dbe4-a40c-4201-a930-35cc56c8ce6d" />
+    <Project Path="Session5/Bai1.csproj" Id="04b83e0a-5482-4c6c-97c5-011a6397e5a5" />
+  </Folder>
   <Project Path="Session1/Session1.csproj" />
   <Project Path="Session2/Session2.csproj" />
   <Project Path="Session3/Session3.csproj" />

@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Bai_5
+class Bai5
 {
     static void Main(string[] args)
     {
